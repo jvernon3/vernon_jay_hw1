@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+.hidden
+{
+  display: none;
+}
+
+h1
+{
+  font-size: 24px;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #666;
+}
+
+h2
+{
+  font-size: 16px;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #333;
+}
+
+#container
+{
+  margin: 0 auto;
+  width: 960px;
+}
+
+p
+{
+  font-size: 12px;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #333;
+}
+
+img
+{
+  float:left;
+}
+
+#brassRing
+{
+  float: right;
+  margin-right: 150px;
+}
+
+#camerashy
+{
+  margin-left: 150px;
+  margin-top: 30px;
+}
